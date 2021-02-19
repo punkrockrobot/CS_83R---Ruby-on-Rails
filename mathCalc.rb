@@ -2,7 +2,7 @@
 Brian Worth
 1830
 10/14/2020
-To calculate and array of numbers - SUM, Average, Median, Standard Deviation
+To calculate an array of numbers - SUM, Average, Median, Standard Deviation
 =end
 
 myarray = Array.new
